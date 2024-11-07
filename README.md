@@ -16,7 +16,7 @@
  
 <br>
  
-### Para demais conteúdos me siga nas redes abaixo!
+### For other content, follow me on the networks below!
  
 <div> 
  <a href="https://discord.gg/danieltitton" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
